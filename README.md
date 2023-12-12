@@ -34,4 +34,5 @@ List the main dependencies used in your project here:
 
 Then Run the application in either Emulator or physical device.
 
-## Screenshots of how the App looks
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/shorts/Tx0WV7-8ZpQ)
+
